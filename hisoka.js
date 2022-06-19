@@ -2653,19 +2653,19 @@ case 'assalamualaikum': {
 	}
 	break
 case 'donasi': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/0ee5ae383264fdcc8608c.jpg' }, caption: `Silahkan Scan Kode QR Diatas Untuk Donasi` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/5a1a2e916c53af83c4e4a.jpg' }, caption: `Silahkan Scan Kode QR Diatas Untuk Donasi` }, { quoted: m })
             }
             break
 case 'gopay': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/077e91ae0b71d4c9d3653.jpg' }, caption: `GOPAY` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/ad5f4b7a1d785c88f7406.jpg' }, caption: `GOPAY` }, { quoted: m })
             }
             break
 case 'dana': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/077e91ae0b71d4c9d3653.jpg' }, caption: `DANA` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/bf5d06743d5ff119d970a.jpg' }, caption: `DANA` }, { quoted: m })
             }
             break
 case 'qris': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/077e91ae0b71d4c9d3653.jpg' }, caption: `QRIS ALL PAYMENT` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/5a1a2e916c53af83c4e4a.jpg' }, caption: `QRIS ALL PAYMENT` }, { quoted: m })
             }
             break
 case 'api': case 'apikey': {
