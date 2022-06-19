@@ -2697,11 +2697,11 @@ let btn = [{
                                     id: 'donasi'
                                 }
                             }]
-                hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
             }
             break
 case 'sewabot': {
-	anu = `╭──「 *_SEWA BOT BY NelzBotzZ_* 」
+	anu = `╭──「 *_SEWA BOT BY AfaBotzZ_* 」
 │❏ ➪ _1 MINGGU : 1K_
 │❏ ➪ _1 BULAN : 5K_
 │❏ ➪ _PERMANEN : 10k_
@@ -2714,7 +2714,7 @@ case 'sewabot': {
 │❏ ➪ _WELCOME IMAGE_
 ╰──── 
 ╭─[ *MINAT CHAT📌*]
-│❏ ➪ 🪀 _wa.me/6285775903426?text=SEWA+BOT_
+│❏ ➪ 🪀 _wa.me/6285872380901?text=SEWA+BOT_
 ╰────
 ╭─[ *PAYMENT💰*]
 │❏ ➪ _GOPAY_
@@ -2741,11 +2741,11 @@ case 'sewabot': {
                      }
             break
   case 'menu': {
-	anu = `Hai Kak ${pushname}\n\nSaya Adalah NelzBotz, Bot Ini Memakai Program Multi Device Beta Dari WhatsApp.\n\nJadi Jika Kamu Menemukan Bug Atau Kesalahan Silahkan Laporkan Kepada Owner Agar Segera Di Perbaiki.\n\nTerima Kasih🙏`
+	anu = `Hai Kak ${pushname}\n\nSaya Adalah AfaBotz, Bot Ini Memakai Program Multi Device Beta Dari WhatsApp.\n\nJadi Jika Kamu Menemukan Bug Atau Kesalahan Silahkan Laporkan Kepada Owner Agar Segera Di Perbaiki.\n\nTerima Kasih🙏`
               let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2763,7 +2763,7 @@ case 'sewabot': {
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, '© NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, '© AfaBotz', global.thumb, btn)
                      }
             break
             case 'command':{
@@ -3334,7 +3334,7 @@ let btn = [{
                 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3352,7 +3352,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3391,7 +3391,7 @@ case 'downloadmenu': {
          let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3409,7 +3409,7 @@ case 'downloadmenu': {
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3443,7 +3443,7 @@ case 'searchmenu': {
        let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3461,7 +3461,7 @@ case 'searchmenu': {
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3489,7 +3489,7 @@ case 'mememenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3507,7 +3507,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3548,7 +3548,7 @@ case 'randommenu': {
        let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3566,7 +3566,7 @@ case 'randommenu': {
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'Afabotz', global.thumb, btn)
                      }
             break
 
@@ -3622,7 +3622,7 @@ case 'textpromenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3640,7 +3640,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3676,7 +3676,7 @@ case 'photooxymenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3694,7 +3694,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3727,7 +3727,7 @@ case 'ephotomenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3745,7 +3745,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3794,7 +3794,7 @@ case 'funmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/8'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3812,7 +3812,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3866,7 +3866,7 @@ case 'primbonmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3884,7 +3884,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3924,7 +3924,7 @@ case 'convertmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3942,7 +3942,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -3977,7 +3977,7 @@ case 'mainmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3995,7 +3995,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -4027,7 +4027,7 @@ case 'databasemenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4045,7 +4045,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -4074,7 +4074,7 @@ case 'anonymousmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4092,7 +4092,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -4121,7 +4121,7 @@ case 'islamicmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4139,7 +4139,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -4174,7 +4174,7 @@ case 'voicechangermenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4192,7 +4192,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -4226,7 +4226,7 @@ case 'ownermenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4244,7 +4244,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
 
@@ -4266,7 +4266,7 @@ case 'thanksto': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'YT CREATOR📽️',
-                                    url: ''
+                                    url: 'https://youtube.com/'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4284,7 +4284,7 @@ let btn = [{
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'NelzBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'AfaBotz', global.thumb, btn)
                      }
             break
             default:
