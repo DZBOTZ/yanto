@@ -74,7 +74,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
             }
         },
         ip: '20.24.65.20',
-        grup: ['120363040431863533@g.us']
+        grup: ['120363039030876340@g.us']
     },
     contoh: {
         nama: 'cuma contoh',
